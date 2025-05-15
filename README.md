@@ -6,36 +6,15 @@ Welcome to my Data Analyst Portfolio! This repository contains multiple end-to-e
 
 ## 📊 Projects Overview
 
-### 1. [Sales Performance Analysis](./Sales-Performance-Analysis)
+### 1. [Sales Performance Dashboard – Power BI & DAX](./Sales-Performance-Analysis)
 **Tools:** Python, Power BI  
 **Description:** Analyzed retail sales data to uncover trends in product performance, regional demand, and monthly revenue. Built interactive dashboards to help stakeholders make informed decisions.
 
 ---
 
-### 2. [Marketing Campaign Insights](./Marketing-Campaign-Insights)
+### 2. [Customer Churn Prediction & Retention Strategy – Python & Machine Learning](./Customer-Churn-Prediction)
 **Tools:** Excel, Python (Pandas, Matplotlib)  
 **Description:** Explored marketing campaign data to evaluate channel-wise performance, conversion rates, and customer segmentation. Provided actionable insights for better ad spend allocation.
-
----
-
-### 3. [Healthcare Patient Analytics](./Healthcare-Patient-Analytics)
-**Tools:** Python, Tableau  
-**Description:** Analyzed patient visit patterns, treatment durations, and hospital performance metrics. Delivered a Tableau dashboard with key operational insights.
-
----
-
-### 4. [Power BI Sales Insights](./PowerBI-Project)
-**Tools:** Power BI  
-**Description:** Created a dynamic Power BI dashboard to track sales performance by region, segment, and time. Included filters for executive-level interaction.
-
----
-
-## 🚀 Skills Demonstrated
-- Data Cleaning & Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Power BI, Tableau, Matplotlib)
-- Business Problem Solving
-- Domain-Specific Insights (Retail, Marketing, Healthcare)
 
 ---
 
